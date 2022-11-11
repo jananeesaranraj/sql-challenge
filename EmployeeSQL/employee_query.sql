@@ -90,7 +90,7 @@ WHERE first_name = 'Hercules'
 AND  last_name like 'B%';
 
 ------List each employee in the Sales department, including their employee number, last name, and first name
-SELECT e.emp_no,e.last_name,e.first_name
+SELECT de.dept_name, e.emp_no,e.last_name,e.first_name
 FROM employees as e
 INNER JOIN dep_emp as d ON
 e.emp_no = d.emp_no

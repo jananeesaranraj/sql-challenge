@@ -40,4 +40,8 @@ The following steps to generate a visualization of the data:
 
 2.Created a histogram to visualize the most common salary ranges for employees.
 
+![histogram](https://user-images.githubusercontent.com/112193116/201811071-aba02b90-5ae7-4815-aee1-4916c0da688f.png)
+
 3.Created a bar chart of average salary by title.
+
+![Screenshot 2022-11-14 211813](https://user-images.githubusercontent.com/112193116/201811072-8555a0b1-087d-49b1-a9b1-1240c0e40614.png)

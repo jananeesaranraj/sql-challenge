@@ -6,3 +6,4 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 Data Modeling
 Inspected the CSVs and sketched out an ERD of the tables. After designing, the following is the ERD of the database
+![Employee_ERD](https://user-images.githubusercontent.com/112193116/201808898-cb049aa4-9c28-4066-a892-5fa321a09c9f.png)
